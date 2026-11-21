@@ -3,13 +3,13 @@
   "format": "CVAT for images 1.1",
   "guideline": "Road v1.0",
   "name": "phamquanghuy",
-  "revision": 1,
-  "created_at": "2026-11-20T17:22:08+00:00",
+  "revision": 2,
+  "created_at": "2026-11-21T02:28:44+00:00",
   "files": [
     {
       "file": "phamquanghuy-front.zip",
       "bytes": 8848,
-      "sha256": "768e7a48e72212997a1ad42fc68df44e340f07dbc7b3a658a31a1a2f3e3811ee",
+      "sha256": "0fa9b3084d4bdb15b432c25b8e7f8bfe6fa6c9f0a4c2ce477cd166c86591b2d9",
       "contains_images": false,
       "images": 16,
       "images_unlabelled": 0,
@@ -25,16 +25,16 @@
     },
     {
       "file": "phamquanghuy-fisheye.zip",
-      "bytes": 7166,
-      "sha256": "fcafb55ac75e89d0ee49aa3e8dea101151394494d01ad98bc8734a2b17bb619e",
+      "bytes": 7335,
+      "sha256": "b21778106be5867f246f889d86af31bc9809f843794b0f133f77b44f2d05ad9d",
       "contains_images": false,
       "images": 12,
       "images_unlabelled": 0,
       "images_all_tags": 12,
       "shapes_by_label": {
         "crosswalk": 20,
-        "drivable": 8,
-        "lane": 10,
+        "drivable": 9,
+        "lane": 11,
         "road_curb": 26,
         "traffic_light": 9,
         "traffic_sign": 9
