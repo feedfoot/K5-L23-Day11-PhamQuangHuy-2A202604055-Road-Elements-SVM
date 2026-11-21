@@ -32,6 +32,8 @@ Cách đếm "Số mục kiểm": QC1-01 là số tag (4 × 6 ảnh); QC1-02 là
 | 4 | QC1-11 | B07 | road_curb#3@(100,490) | chính | Polyline gập ngược: lên tới (164,367) rồi quay xuống (147,436) và đi lên lại. Đoạn gập không nằm trên mép vỉa |
 | 5 | QC1-01 | A07 | tag weather | nhẹ | Gán `clear`, nhưng mặt đường ướt rõ và kính có giọt nước. Theo guideline là `rain` |
 
+Ảnh kiểm không lỗi: A01 (12 nhãn: 4 tag, 4 lane, 3 drivable, 1 biển) và B01 (7 nhãn: 4 tag, 1 crosswalk, 2 đèn).
+
 ## Ca mơ hồ
 | Ảnh | Câu hỏi cho lead | Lời đáp (nếu có) |
 | --- | --- | --- |
